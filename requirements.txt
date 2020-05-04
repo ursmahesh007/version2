@@ -4,3 +4,4 @@ djangorestframework==3.10.3
 django-crispy-forms==1.8.1
 django-readonly-field==1.0.5
 sshtunnel==0.1.5
+sqlparse==0.2.4
